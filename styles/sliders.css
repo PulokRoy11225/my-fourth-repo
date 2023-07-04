@@ -1,4 +1,6 @@
 img{
-  width: 10opx;
+  width: 100px;
   height: 100px;
+  border: 2px solid gray;
+  size: 20px;
 }
